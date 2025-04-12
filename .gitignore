@@ -1,0 +1,4 @@
+venv/
+*.log
+z.py
+node_modules
